@@ -1,7 +1,7 @@
 import time
 import random
 
-# list of monsters in consts
+# list of monsters in const variables
 MONSTER1 = "tax collector"
 MONSTER2 = "bandit"
 MONSTER3 = "troll"
