@@ -1,5 +1,5 @@
 # adventure-game
-A simple text-based game I made for a class project.
+A simple text-based game I made for the Udacity Intro to programing nanodegree. 
 It's the first python program I've written.
 The goal of the game is to fight the monster terrorizing the nearby village and collect the bounty on it's head.
 Being a simple version, choices are picked via the 1, 2, 3 number keys, they are the only valid choices, any other input will ask the player to try again.
